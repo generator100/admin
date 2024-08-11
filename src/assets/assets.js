@@ -6,6 +6,7 @@ import good  from"./good food.jpeg"
 import icon from"./icon.png"
 import logo from"./logo.png"
 import b1 from"./1.webp"
+export const url = 'https://backend-1-5f51.onrender.com'
 import b2 from"./2.webp"
 import b3 from"./3.jpeg"
 import b5 from  "./5.jpeg"
